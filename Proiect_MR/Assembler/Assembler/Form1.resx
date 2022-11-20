@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGQAAAAyCAIAAAAlV+npAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAABehJREFUaEPtms9rG0cUx/NfGHTZg0EQSk85uWnIzQiqymlaii89pIZEobfQQ1UJ
+        kVMTH1LsQ90cikTsU6F4acilCazkQ0oQNjGEgtiTaSPnIHxYBA4+LNuv9k3WL2tpd36spGL64WFmZpfd
+        2e+8mf3uWBeC/5HmwtHR0dWPL1u5uSnH7fKt4+Nj0QsVXr/+Z/odhkq49TCzbHsb9T+fP3enxf7+Ph54
+        Y+On8PEVgL5QGSEuNHm+/OLzqJ9DsdADNK3ev0dN0vTDiHgbhiyUIFtbm6IuByklk5K+2xAlxsjGBCAW
+        OhndTqxZSCskF45RVYYdu92q3aGy/+aZ27yJCAavqEUGuin+inoaGGF0HSqLeiKl3BykiQUaxWE5kEOY
+        dqISiQW+r3yHQRMVCbqdjfXO4bDkH9YXP1hpvirbB82vL4UHZXn29Cn0knl+5KC8UgCXLRUbsUCjOCwB
+        +gaxRCXkVCykldI4r+Tn/LCwZz8oVBoDiBb4Vu6TsE0BmXxRzUGA810/iIW8WJh66BXWVlEPORULUL9l
+        VgRg5W9g9gWDzkr+Usv10DLoPqraL+moEpTU4+6rOopEqMuJqAhO5MWCFOiVqLzjPbFITj5LE8AcrBfv
+        /li8iwlILeWa83L3LyorgfvSyi3qDHoPRO8jeazFypvOxjDdBT6qaBS1RHBTyHo22d8TC5CNIFuRDHrR
+        8nwEJiCB7BommBZk92KiQET+5lai6bhI+cHuWuA5CBRQRaM4nAhyauRN42IBLRuRAZREWFapGqXbuOmZ
+        DIYQL5xCsVHNLyNQQDUa1wTIA4686QixcDaSS8lGZAVfyDG2GDY9pQjkPhb1pvsWgUI0IZOJ2QXOCLEA
+        8vDs8jYdkFkYWKQ2/ia/IicBZIrZBc5osWiFU30BZQVyauT6OmmQxRihmF3gjBYLmM8CExJ6PDnwyMnz
+        aaxYJLOkjTgH0GRKTuexYgEoBb1kbMQ5YJxd4CSJBTATUy9xDkiwC5wUsWZoI6ZJgl3gpIgFZmgjpkOy
+        XeCkizVbGzFpUu0CJ10sMFsbMVFS7QJHSqwJ2QifbfLyckSsceQ5JsjYBY6UWMDYRuDbrIun5cE3eYfl
+        cHuAR2wXeLhT3Psj3PiX/M5LQcYucGTFAiY2YuBuN4tLpWLjesWJAqMqDod7ddUPa7HgJwArX9ts91uV
+        Ba/9JPBeGKqGVfjKRwuiIoeCWLRjqWcjqovzdaeHT3/a86KwiqfTClem3TEeUEccDkEL/uLMHc+32/0d
+        +4XX/n2Yg+pgYflsqXT1ymVRl0NBLKBtI/CEZ3MA2kXEkoggdRhCrLDQ9zzH/q1WzS/TMSXk7QJHTSys
+        Weirho2w8jeCQVdU3oFlS5SEBCn7rJ5TC/wDnOk5q63aar3mXG92m67CPysJ2pXV+FZXEwtsbW1q2Ij1
+        zqFd+8F3fw28dhR8/b5YcdzHT0RlDBdzc/Y3FZxZd/pIOkh7NltlULILHGWx9GwEnsrunaw7/fXNbhRW
+        bl4cDpNqLz7p4li5BVwkJf3SoJVX3i5wlMUCtJmpZyOgRxSlZnxiJlN1+K8FNFG1CxwdsYCJjYhISaQJ
+        gNUWw6z9KaIplomNmBXQCGNs8h2iKRbQthGzQs8ucPTFAno2YiZo2wWOkVgPH/6sYSNmgrZd4BiJpWcj
+        po+JXeAYiQVMbMTUMLELHFOxQCY2YnIY2gVOBmL9l22EuV3gZCAWyMRG8O/qiJGN8pBdyOoVlI1Y2rsR
+        HJnNUiUy6RUnG7GA+RjiwarXGiLyooxGcVid1fv3srXNmYllbiOsYsMd/kz2pPv3tpWbD8u0z6XDJFbS
+        zMQC9N7RthGu7wf+Qc++Uy6uFSq/DDcL/R7fxlHidvlW5u/oLMUCJl0c7K7ZN5dLDzp7A//x7qFd+apV
+        WypUdFLVcNjGkbFYJslfyM3VnR797NMPd69Kza47UN7IMV8QxpGxWICWVeilipX7tCuKglhVEr2Nbxmy
+        FwvJT7ZLNa6Vv421aIfh7sI4shfr3BIE/wIRv4dWOHR+4wAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="DataOUTLine5.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 57, 65, 0</value>
+  </metadata>
+  <metadata name="DataOUTLine5.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>8, 57</value>
+  </metadata>
+  <metadata name="DataOUTLine5.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>65, 0</value>
+  </metadata>
+  <metadata name="DataOUTLine4.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>7, 56, 1, 330</value>
+  </metadata>
+  <metadata name="DataOUTLine4.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>7, 56</value>
+  </metadata>
+  <metadata name="DataOUTLine4.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 330</value>
+  </metadata>
+  <metadata name="Pd0d.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>822, 60, 0, 153</value>
+  </metadata>
+  <metadata name="Pd0d.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>822, 60</value>
+  </metadata>
+  <metadata name="Pd0d.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 153</value>
+  </metadata>
+  <metadata name="Pd0s.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>799, 58, 0, 52</value>
+  </metadata>
+  <metadata name="Pd0s.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>799, 58</value>
+  </metadata>
+  <metadata name="Pd0s.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 52</value>
+  </metadata>
+  <metadata name="Pdminus1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>751, 58, 0, 52</value>
+  </metadata>
+  <metadata name="Pdminus1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>751, 58</value>
+  </metadata>
+  <metadata name="Pdminus1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 52</value>
+  </metadata>
+  <metadata name="Pd1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>691, 58, 0, 52</value>
+  </metadata>
+  <metadata name="Pd1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>691, 58</value>
+  </metadata>
+  <metadata name="Pd1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 52</value>
+  </metadata>
+  <metadata name="PdIRs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>130, 67, 0, 49</value>
+  </metadata>
+  <metadata name="PdIRs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>130, 67</value>
+  </metadata>
+  <metadata name="PdIRs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 49</value>
+  </metadata>
+  <metadata name="PdIRd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>88, 66, 0, 146</value>
+  </metadata>
+  <metadata name="PdIRd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>88, 66</value>
+  </metadata>
+  <metadata name="PdIRd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 146</value>
+  </metadata>
+  <metadata name="DataOUTLine2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>7, 382, 1, 168</value>
+  </metadata>
+  <metadata name="DataOUTLine2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>7, 382</value>
+  </metadata>
+  <metadata name="DataOUTLine2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 168</value>
+  </metadata>
+  <metadata name="MDRLine1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>154, 248, 47, 0</value>
+  </metadata>
+  <metadata name="MDRLine1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>154, 248</value>
+  </metadata>
+  <metadata name="MDRLine1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>47, 0</value>
+  </metadata>
+  <metadata name="ADRLine2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>45, 286, 1, 21</value>
+  </metadata>
+  <metadata name="ADRLine2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>45, 286</value>
+  </metadata>
+  <metadata name="ADRLine2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 21</value>
+  </metadata>
+  <metadata name="ADRLine1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>46, 287, 195, 0</value>
+  </metadata>
+  <metadata name="ADRLine1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>46, 287</value>
+  </metadata>
+  <metadata name="ADRLine1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>195, 0</value>
+  </metadata>
+  <metadata name="PdCond4.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1036, 515, 0, 40</value>
+  </metadata>
+  <metadata name="PdCond4.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1036, 515</value>
+  </metadata>
+  <metadata name="PdCond4.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 40</value>
+  </metadata>
+  <metadata name="PdCond3.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>993, 517, 44, 0</value>
+  </metadata>
+  <metadata name="PdCond3.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>993, 517</value>
+  </metadata>
+  <metadata name="PdCond3.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>44, 0</value>
+  </metadata>
+  <metadata name="PdCond1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>992, 351, 1, 166</value>
+  </metadata>
+  <metadata name="PdCond1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>992, 351</value>
+  </metadata>
+  <metadata name="PdCond1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 166</value>
+  </metadata>
+  <metadata name="PdCond2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>992, 351, 23, 0</value>
+  </metadata>
+  <metadata name="PdCond2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>992, 351</value>
+  </metadata>
+  <metadata name="PdCond2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>23, 0</value>
+  </metadata>
+  <metadata name="DataOUTLine1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>4, 383, 23, 0</value>
+  </metadata>
+  <metadata name="DataOUTLine1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>4, 383</value>
+  </metadata>
+  <metadata name="DataOUTLine1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>23, 0</value>
+  </metadata>
+  <metadata name="MDRLine3.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>139, 386, 17, 0</value>
+  </metadata>
+  <metadata name="MDRLine3.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>139, 386</value>
+  </metadata>
+  <metadata name="MDRLine3.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 0</value>
+  </metadata>
+  <metadata name="MDRLine2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>154, 246, 1, 140</value>
+  </metadata>
+  <metadata name="MDRLine2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>154, 246</value>
+  </metadata>
+  <metadata name="MDRLine2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 140</value>
+  </metadata>
+  <metadata name="PmFLAG.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1036, 576, 0, 29</value>
+  </metadata>
+  <metadata name="PmFLAG.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1036, 576</value>
+  </metadata>
+  <metadata name="PmFLAG.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 29</value>
+  </metadata>
+  <metadata name="PmFLAG1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1014, 575, 23, 0</value>
+  </metadata>
+  <metadata name="PmFLAG1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1014, 575</value>
+  </metadata>
+  <metadata name="PmFLAG1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>23, 0</value>
+  </metadata>
+  <metadata name="PdCond5.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1013, 555, 23, 0</value>
+  </metadata>
+  <metadata name="PdCond5.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1013, 555</value>
+  </metadata>
+  <metadata name="PdCond5.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>23, 0</value>
+  </metadata>
+  <metadata name="ALURLine.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1063, 368, 1, 242</value>
+  </metadata>
+  <metadata name="ALURLine.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1063, 368</value>
+  </metadata>
+  <metadata name="ALURLine.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 242</value>
+  </metadata>
+  <metadata name="muxFlagLine1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>954, 567, 43, 0</value>
+  </metadata>
+  <metadata name="muxFlagLine1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>954, 567</value>
+  </metadata>
+  <metadata name="muxFlagLine1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>43, 0</value>
+  </metadata>
+  <metadata name="muxFlagLine2.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>955, 547, 0, 18</value>
+  </metadata>
+  <metadata name="muxFlagLine2.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>955, 547</value>
+  </metadata>
+  <metadata name="muxFlagLine2.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 18</value>
+  </metadata>
+  <metadata name="DataOUTLine3.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>9, 551, 91, 0</value>
+  </metadata>
+  <metadata name="DataOUTLine3.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>9, 551</value>
+  </metadata>
+  <metadata name="DataOUTLine3.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>91, 0</value>
+  </metadata>
+  <metadata name="PmMDR.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>82, 577, 0, 37</value>
+  </metadata>
+  <metadata name="PmMDR.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>82, 577</value>
+  </metadata>
+  <metadata name="PmMDR.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 37</value>
+  </metadata>
+  <metadata name="PmMDR1.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>81, 575, 17, 0</value>
+  </metadata>
+  <metadata name="PmMDR1.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>81, 575</value>
+  </metadata>
+  <metadata name="PmMDR1.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 0</value>
+  </metadata>
+  <metadata name="PmMDR4.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>186, 543, 0, 18</value>
+  </metadata>
+  <metadata name="PmMDR4.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>186, 543</value>
+  </metadata>
+  <metadata name="PmMDR4.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 18</value>
+  </metadata>
+  <metadata name="PmMDR3.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>126, 561, 59, 0</value>
+  </metadata>
+  <metadata name="PmMDR3.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>126, 561</value>
+  </metadata>
+  <metadata name="PmMDR3.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>59, 0</value>
+  </metadata>
+  <metadata name="PmRG.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>741, 546, 0, 60</value>
+  </metadata>
+  <metadata name="PmRG.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>741, 546</value>
+  </metadata>
+  <metadata name="PmRG.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="PmSP.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>537, 546, 0, 60</value>
+  </metadata>
+  <metadata name="PmSP.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>537, 546</value>
+  </metadata>
+  <metadata name="PmSP.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="PmT.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>467, 546, 0, 60</value>
+  </metadata>
+  <metadata name="PmT.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>467, 546</value>
+  </metadata>
+  <metadata name="PmT.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="PmPC.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>395, 545, 0, 60</value>
+  </metadata>
+  <metadata name="PmPC.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>395, 545</value>
+  </metadata>
+  <metadata name="PmPC.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="PmIVR.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>325, 546, 0, 60</value>
+  </metadata>
+  <metadata name="PmIVR.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>325, 546</value>
+  </metadata>
+  <metadata name="PmIVR.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="PmADR.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>253, 547, 0, 60</value>
+  </metadata>
+  <metadata name="PmADR.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>253, 547</value>
+  </metadata>
+  <metadata name="PmADR.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 60</value>
+  </metadata>
+  <metadata name="ALUDLine.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1077, 227, 0, 89</value>
+  </metadata>
+  <metadata name="ALUDLine.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1077, 227</value>
+  </metadata>
+  <metadata name="ALUDLine.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="ALUSLine.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1017, 130, 1, 186</value>
+  </metadata>
+  <metadata name="ALUSLine.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1017, 130</value>
+  </metadata>
+  <metadata name="ALUSLine.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdFLAGs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>942, 130, 1, 186</value>
+  </metadata>
+  <metadata name="PdFLAGs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>942, 130</value>
+  </metadata>
+  <metadata name="PdFLAGs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdRGs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>609, 129, 1, 186</value>
+  </metadata>
+  <metadata name="PdRGs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>609, 129</value>
+  </metadata>
+  <metadata name="PdRGs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdSPs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>522, 130, 1, 186</value>
+  </metadata>
+  <metadata name="PdSPs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>522, 130</value>
+  </metadata>
+  <metadata name="PdSPs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdTs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>456, 130, 1, 186</value>
+  </metadata>
+  <metadata name="PdTs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>456, 130</value>
+  </metadata>
+  <metadata name="PdTs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdPCs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>381, 129, 1, 186</value>
+  </metadata>
+  <metadata name="PdPCs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>381, 129</value>
+  </metadata>
+  <metadata name="PdPCs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdIVRs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>310, 131, 1, 186</value>
+  </metadata>
+  <metadata name="PdIVRs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>310, 131</value>
+  </metadata>
+  <metadata name="PdIVRs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdADRs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>240, 131, 1, 186</value>
+  </metadata>
+  <metadata name="PdADRs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>240, 131</value>
+  </metadata>
+  <metadata name="PdADRs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdMDRs.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>170, 130, 1, 186</value>
+  </metadata>
+  <metadata name="PdMDRs.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>170, 130</value>
+  </metadata>
+  <metadata name="PdMDRs.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1, 186</value>
+  </metadata>
+  <metadata name="PdFLAGd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>966, 230, 0, 89</value>
+  </metadata>
+  <metadata name="PdFLAGd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>966, 230</value>
+  </metadata>
+  <metadata name="PdFLAGd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdRGd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>771, 228, 0, 89</value>
+  </metadata>
+  <metadata name="PdRGd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>771, 228</value>
+  </metadata>
+  <metadata name="PdRGd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdSPd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>546, 229, 0, 89</value>
+  </metadata>
+  <metadata name="PdSPd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>546, 229</value>
+  </metadata>
+  <metadata name="PdSPd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdTd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>476, 229, 0, 89</value>
+  </metadata>
+  <metadata name="PdTd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>476, 229</value>
+  </metadata>
+  <metadata name="PdTd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdPCd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>404, 228, 0, 89</value>
+  </metadata>
+  <metadata name="PdPCd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>404, 228</value>
+  </metadata>
+  <metadata name="PdPCd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdIVRd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>333, 227, 0, 89</value>
+  </metadata>
+  <metadata name="PdIVRd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>333, 227</value>
+  </metadata>
+  <metadata name="PdIVRd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdADRd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>266, 228, 0, 89</value>
+  </metadata>
+  <metadata name="PdADRd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>266, 228</value>
+  </metadata>
+  <metadata name="PdADRd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="PdMDRd.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>200, 227, 0, 89</value>
+  </metadata>
+  <metadata name="PdMDRd.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>200, 227</value>
+  </metadata>
+  <metadata name="PdMDRd.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>0, 89</value>
+  </metadata>
+  <metadata name="RBUS.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>49, 610, 1037, 4</value>
+  </metadata>
+  <metadata name="RBUS.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>49, 610</value>
+  </metadata>
+  <metadata name="RBUS.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1037, 4</value>
+  </metadata>
+  <metadata name="DBUS.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>48, 219, 1034, 0</value>
+  </metadata>
+  <metadata name="DBUS.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>48, 219</value>
+  </metadata>
+  <metadata name="DBUS.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1034, 0</value>
+  </metadata>
+  <metadata name="SBUS.Bounds" type="System.Drawing.Rectangle, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>44, 116, 1037, 9</value>
+  </metadata>
+  <metadata name="SBUS.Location" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>44, 116</value>
+  </metadata>
+  <metadata name="SBUS.Size" type="System.Drawing.Size, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1037, 9</value>
+  </metadata>
+  <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>
