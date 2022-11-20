@@ -1,0 +1,9 @@
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\bin\Debug\FirstProblem.exe.config
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\bin\Debug\FirstProblem.exe
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\bin\Debug\FirstProblem.pdb
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.csprojResolveAssemblyReference.cache
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.Form1.resources
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.Properties.Resources.resources
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.csproj.GenerateResource.Cache
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.exe
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\FirstProblem\obj\Debug\FirstProblem.pdb

@@ -1,0 +1,54 @@
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Facultate\An 3\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InitializeProcessor.resources
+C:\Users\Ban\Desktop\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Secven.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InitializeProcessor.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Secven.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Dropbox\Facultate\Anul III semsetrul II\arhitectura calculatoarelor\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Dropbox\Facultate\Anul III semsetrul II\arhitectura calculatoarelor\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Dropbox\Facultate\Anul III semsetrul II\arhitectura calculatoarelor\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InitializeProcessor.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Secven.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InitializeProcessor.resources
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Secven.resources
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bucur\Desktop\proiect\Proiect AC_not_finished(Ovidiu Ban, Marian Rabagel)\ProgramareMihu\Asamblor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

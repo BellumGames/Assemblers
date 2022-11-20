@@ -1,0 +1,136 @@
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\ProiectAC\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectAC\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectAC\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectAC\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv2\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv3\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4+Seq\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4+Seq\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4+Seq\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv4\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv5- interfata 1\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv6- imbunatatita\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 - interfata\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.Form2.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\Proiect AC\ProiectACv7 + memorie\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.Form2.resources
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\Lavinia\Desktop\ProiectACv8\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+C:\Users\Lavinia\Desktop\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\Lavinia\Desktop\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\Lavinia\Desktop\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.pdb
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe.config
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.exe
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.pdb
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form2.resources
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.pdb
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\Facultate\AnIII\An 3 sem II\Arhitectura Calculatoarelor\Arhitectura Calculatoarelor\Proiect\Proiect AC FINAL\Proiect AC_Bacila Lavinia\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe.config
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.exe
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.pdb
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.pdb
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form2.resources
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+E:\Facultate\An 3\sem 2\AC\Proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe.config
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.pdb
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.pdb
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csprojResolveAssemblyReference.cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form1.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Form2.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.Cache
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe.config
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.exe
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\bin\Debug\ProiectAC.pdb
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.AssemblyReference.cache
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.MainProgram.resources
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Memory.resources
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.Properties.Resources.resources
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.GenerateResource.cache
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.CoreCompileInputs.cache
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.csproj.CopyComplete
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.exe
+C:\Users\bucur\Desktop\proiect\ProiectAC_BacilaLavinia\ProiectAC\obj\Debug\ProiectAC.pdb

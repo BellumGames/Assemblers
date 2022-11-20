@@ -1,0 +1,11 @@
+E:\Facultate\An 3 - SEM 2\AC\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\bin\Debug\Assembler.exe.config
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.csproj.ResolveComReference.cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.AssemblerMainForm.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\FUCKULTATE\An 3\sem 2\AC\proiect\ProiectAC\Assembler\Assembler\obj\Debug\Assembler.pdb

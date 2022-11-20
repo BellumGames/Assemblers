@@ -1,0 +1,7 @@
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\bin\Debug\FirstProblem.exe
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\bin\Debug\FirstProblem.pdb
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\SurialOvidiu\Desktop\iQuest\FirstProblem\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

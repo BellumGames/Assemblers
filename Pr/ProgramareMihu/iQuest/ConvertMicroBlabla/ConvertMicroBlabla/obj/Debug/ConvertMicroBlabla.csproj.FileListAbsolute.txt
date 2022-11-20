@@ -1,0 +1,29 @@
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe.config
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.pdb
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csprojResolveAssemblyReference.cache
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Form1.resources
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Properties.Resources.resources
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csproj.GenerateResource.Cache
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.exe
+C:\Users\SurialOvidiu\Desktop\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe.config
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.exe
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csprojResolveAssemblyReference.cache
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Form1.resources
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Properties.Resources.resources
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csproj.GenerateResource.Cache
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.pdb
+C:\Users\Ban\Desktop\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csproj.ResolveComReference.cache
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe.config
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csproj.ResolveComReference.cache
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.exe
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.pdb
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.exe
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\bin\Debug\ConvertMicroBlabla.pdb
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csprojResolveAssemblyReference.cache
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Form1.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.Properties.Resources.resources
+E:\Dropbox\Proiect AC\ProgramareMihu\iQuest\ConvertMicroBlabla\ConvertMicroBlabla\obj\Debug\ConvertMicroBlabla.csproj.GenerateResource.Cache
